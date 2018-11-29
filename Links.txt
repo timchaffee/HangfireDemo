@@ -1,0 +1,9 @@
+https://www.meetup.com/Sarasota-NET-Software-Engineer-Group/
+https://www.meetup.com/Sarasota-IoT-Creators-Makers-and-Inventors-Group/
+https://www.hangfire.io/
+https://cpratt.co/papercut-a-stupidly-simple-smtp-server-for-local-development/
+https://github.com/atifaziz/NCrontab
+http://www.cronmaker.com/
+https://www.nickedeye.com/iis-keep-website-alive-always-running/
+https://miniprofiler.com/dotnet/AspDotNetCore
+https://sudo.pagerduty.com/
